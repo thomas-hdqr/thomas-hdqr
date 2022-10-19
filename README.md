@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from France</h3>
 
 
-- 👨‍💻 All of my projects are available at [haudi.xyz](haudi.xyz)
+- 👨‍💻 All of my projects are available at [thomashaudiquer.com](thomashaudiquer.com)
 
 - 💬 Ask me about **react, framer motion, tailwindcss**
 
